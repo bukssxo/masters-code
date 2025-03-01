@@ -1,2 +1,2 @@
 # Brief
-A repository of all my coding exercises/projects taken during my postgraduate study
+A repository of all my coding exercises/projects completed during my postgraduate study
